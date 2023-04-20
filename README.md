@@ -1,4 +1,4 @@
-<a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img align="center" src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a>
+<p align="center"><a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a></p>
 <br />
 <h1 align="center">Ciao 👋, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer from Milan Italy, I'm also a Filipino Developer and I have been doing Web Development and IT Consulting work for 10 years in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstore. that can be viewed in multiple platforms, for different industry. which are still up and working.</h3>
