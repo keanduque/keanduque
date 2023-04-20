@@ -1,4 +1,5 @@
-![keanduque_coder](https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif)(https://keanduque.github.io/kean_cv/)
+<a href="ttps://keanduque.github.io/kean_cv/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a>
+<br />
 <h1 align="center">Ciao 👋, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer from Milan Italy, I'm also a Filipino Developer and I have been doing Web Development and IT Consulting work for 10 years in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstore. that can be viewed in multiple platforms, for different industry. which are still up and working.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
