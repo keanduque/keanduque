@@ -1,7 +1,8 @@
-![](https://cdn.dribbble.com/userupload/6426231/file/original-96422fee4a8eff171ab90c57a44244cd.gif)](https://keanduque.github.io/kean_cv/)
+![keanduque_coder](https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif)(https://keanduque.github.io/kean_cv/)
 <h1 align="center">Ciao 👋, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer from Milan Italy, I'm also a Filipino Developer and I have been doing Web Development and IT Consulting work for 10 years in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstore. that can be viewed in multiple platforms, for different industry. which are still up and working.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![keanduque_coder](https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keanduque&label=Profile%20views&color=0e75b6&style=flat" alt="keanduque" /> </p>
 
