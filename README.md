@@ -1,7 +1,5 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/8078c5168822781.644143543b82d.gif)](https://keanduque.github.io/kean_cv/)
 <h1 align="center">Ciao 👋, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer from Milan Italy, I'm also a Filipino Developer and I have been doing Web Development and IT Consulting work for 10 years in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstore. that can be viewed in multiple platforms, for different industry. which are still up and working.</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keanduque&label=Profile%20views&color=0e75b6&style=flat" alt="keanduque" /> </p>
 
