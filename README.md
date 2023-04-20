@@ -1,4 +1,6 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY3ZGNlOWZhMTAwYjZhMGNjYTNjMGY3NWFlOGU4NjYyOTZlNWVmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/droI9qdr5xidXJJi8X/giphy-downsized-large.gif)](https://keanduque.github.io/kean_cv/)
+[![MasterHead](https://cdn.dribbble.com/userupload/6426231/file/original-96422fee4a8eff171ab90c57a44244cd.gif)](https://keanduque.github.io/kean_cv/)
+
+<iframe src="https://giphy.com/embed/droI9qdr5xidXJJi8X" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kean-keanmind-keanduque-droI9qdr5xidXJJi8X">via GIPHY</a></p>
 <h1 align="center">Ciao 👋, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer from Milan Italy, I'm also a Filipino Developer and I have been doing Web Development and IT Consulting work for 10 years in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstore. that can be viewed in multiple platforms, for different industry. which are still up and working.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
