@@ -2,10 +2,11 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<p align="center"><a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a></p>
+<div style="width: 100%;">
+  <p align="center"><a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a></p>
+</div>
 <h1 align="center">Ciao 🙋🏻‍♂️, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer with experience in UI/UX living in Milan Italy, I have been doing Web Development and IT Consulting work in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstores. Learning and practicing React and other frontend tools and technology, I always ensure my skills are kept up to date within this rapidly changing industry. I am also implementing backend web technology like Node, Express MongoDB, and MySQL, to build projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
 
