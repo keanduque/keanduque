@@ -1,5 +1,53 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        .container {
+          background-color: black;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 <p align="center"><a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a></p>
-<h1 align="center">Ciao 👋, I'm Kean Duque</h1>
+<h1 align="center">Ciao 🙋🏻‍♂️, I'm Kean Duque</h1>
 <h3 align="center">A passionate Front-end Developer with experience in UI/UX living in Milan Italy, I have been doing Web Development and IT Consulting work in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstores. Learning and practicing React and other frontend tools and technology, I always ensure my skills are kept up to date within this rapidly changing industry. I am also implementing backend web technology like Node, Express MongoDB, and MySQL, to build projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -16,7 +64,7 @@
 
 - 📝 My Design Portfolio [https://www.behance.net/keanmind](https://www.behance.net/keanmind)
 
-- 💬 Ask me about **HTML, CSS and JavaScript Vanilla**
+- 💬 Ask me about **2D Animation, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **kean_duque@yahoo.com**
 
