@@ -52,3 +52,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keanduque&show_icons=true&locale=en&theme=tokyonight" alt="keanduque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></p>
+
+<a href="https://app.daily.dev/keanmind"><img src="https://github.com/keanduque/keanduque/blob/master/devcard.svg" width="400" lt="Kean Duque's Dev Card"/></a>
