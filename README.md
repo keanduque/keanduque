@@ -53,4 +53,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></p>
 
-<a href="https://app.daily.dev/keanmind"><img src="https://github.com/keanduque/keanduque/blob/master/devcard.svg" width="400" lt="Kean Duque's Dev Card"/></a>
+<a href="https://app.daily.dev/keanmind"><img src="https://github.com/keanduque/keanduque/blob/main/devcard.svg" width="400" lt="Kean Duque's Dev Card"/></a>
