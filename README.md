@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="keanwelcome.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="./keanwelcome.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <p align="center"><a href="ttps://keanduque.github.io/kean_cv/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" /></a></p>
