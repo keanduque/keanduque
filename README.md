@@ -4,8 +4,7 @@
 <h3 align="left">A passionate Front-end Developer with experience in UI/UX living in Kilkenny Ireland, I have been doing Web Development and IT Consulting work in my career. Successfully developed and deployed visually appealing websites, including ERP and e-commerce Webstores. Learning and practicing React and other frontend tools and technology, I always ensure my skills are kept up to date within this rapidly changing industry. I am also implementing backend web technology like Node, Express MongoDB, and MySQL, to build projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keanduque&label=Profile%20views&color=0e75b6&style=flat" alt="keanduque" /> </p>
-<p align="left"> <a href="https://twitter.com/keanduque" target="_blank"><img src="https://img.shields.io/twitter/follow/keanduque?logo=twitter&style=for-the-badge" alt="keanduque" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keanduque&label=PROFILE+VIEWS+&color=ca543e&style=for-the-badge" alt="keanduque" /> </p>
 
 - 🔭 I’m currently working on **Web Application for personal project**
 
@@ -26,10 +25,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="https://linkedin.com/in/kbduque" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ab5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/keanduque/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ab5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://x.com/keanduque" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  /></a>
   <a href="https://www.behance.net/keanmind" target="_blank"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1e6dff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  /></a>
-  <a href="https://instagram.com/keanmind27" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/keanmind.ie/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
 <br clear="both">
@@ -37,6 +36,8 @@
 <div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keanduque&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="keanduque" /></div>
 <div align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keanduque&show_icons=true&locale=en&theme=tokyonight" alt="keanduque" /></div>
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></div>
+<br clear="both">
+
+<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></div>
 <br clear="both">
 <p align="center"><a href="https://app.daily.dev/keanmind"><img src="https://api.daily.dev/devcards/v2/Axi1cac3j8qUDMlUlq3Q6.png?type=default&r=yo3" width="356" alt="Kean Duque's Dev Card"/></a></p>
