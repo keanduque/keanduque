@@ -7,7 +7,7 @@
 <h1 align="center">Konnichiwa, Minna-san! 🙋🏻‍♂️ I'm Kean Duque</h1>
 <h3 align="center">Front-end Developer • UI/UX Enthusiast • Based in Kilkenny, Ireland 🇮🇪</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=keanduque&label=PROFILE+VIEWS&color=ca543e&style=for-the-badge" alt="Profile Views" />
@@ -16,6 +16,8 @@
 ---
 
 ### 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
 I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
 With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
