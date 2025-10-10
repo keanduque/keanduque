@@ -29,6 +29,21 @@ On the backend, I continue to experiment with **Node.js**, **Express**, **MongoD
 
 ---
 
+<div style="display:inline-block; color:black;border: 3px solid #ffd800; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;">
+  <h1 style="color:black; margin-top: -27px; padding-left: 5px; font-weight:bold;">
+    This is a title
+  </h1>
+
+  <div id="texts">
+    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
+      <img src="http://placehold.it/100x200" width="100" height="200" alt="Image" style="float: left; margin-right: 10px;" /> Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
+      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
+      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
+      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's.
+    </p>
+  </div>
+</div>
+
 ### 🚀 What I'm Up To
 
 - 🔭 Working on: **Personal Web Applications & UI Experiments**
