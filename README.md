@@ -35,7 +35,7 @@ On the backend, I enjoy building full-stack solutions using **Node.js**, **Expre
 ### 🚀 What I'm Up To
 
 - 🔭 Working on: **Personal Web Applications & UI Experiments**
-- 🌱 Currently learning: **TypeScript** and **Modern Front-end Stacks**
+- 🌱 Currently learning: TypeScript, Modern Front-end Stacks, and adopting Generative AI
 - 🧩 Exploring: **Full-stack development and design systems**
 - ⚡ Fun facts: I love **animation**, **traditional drawings**, **programming**, and **running**
 
