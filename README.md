@@ -25,19 +25,22 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/keanduque/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ab5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://x.com/keanduque" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  /></a>
+  <a href="https://www.linkedin.com/in/keanduque/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ab5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://x.com/keanduque" target="_blank"  rel="noopener"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  /></a>
   <a href="https://www.behance.net/keanmind" target="_blank"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1e6dff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  /></a>
-  <a href="https://www.instagram.com/keanmind.ie/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="#" onclick='window.open("https://www.instagram.com/keanmind.ie/");return false;'><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
 <br clear="both">
 
-<div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keanduque&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="keanduque" /></div>
-<div align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keanduque&show_icons=true&locale=en&theme=tokyonight" alt="keanduque" /></div>
+<div align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keanduque&show_icons=true&locale=en&theme=tokyonight" alt="keanduque" /></div>
+<div align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keanduque&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="keanduque" /></div>
+
 
 <br clear="both">
 
-<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanduque&&theme=tokyonight" alt="keanduque" /></div>
+
 <br clear="both">
-<p align="center"><a href="https://app.daily.dev/keanmind"><img src="https://api.daily.dev/devcards/v2/Axi1cac3j8qUDMlUlq3Q6.png?type=default&r=yo3" width="356" alt="Kean Duque's Dev Card"/></a></p>
+
+<div align="center"><a href="https://app.daily.dev/keanmind"><img src="https://api.daily.dev/devcards/v2/Axi1cac3j8qUDMlUlq3Q6.png?type=default&r=yo3" width="356" alt="Kean Duque's Dev Card"/></a></div>
