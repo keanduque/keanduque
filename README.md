@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="border-radius: 20px; border:solid 1px #f00;">
   <a href="https://keanduque.github.io/kean_cv/" target="_blank">
     <img src="https://user-images.githubusercontent.com/3166087/233474078-28fe91bd-e7ca-4846-8d38-b800b1b280e5.gif" alt="Kean Duque Banner" />
   </a>
@@ -17,18 +17,18 @@
 
 ### 👨‍💻 About Me
 
-<p>
-  <img align="right" alt="Coding" width="250" hspace="20" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
+<img align="right" alt="Coding" width="250" hspace="100" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
-  I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
-  With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
+I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
+With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
 
-  I’m constantly exploring new tools and frameworks such as **React**, **TypeScript**, and other modern front-end technologies to build efficient and engaging user interfaces.  
+I’m constantly exploring new tools and frameworks such as **React**, **TypeScript**, and other modern front-end technologies to build efficient and engaging user interfaces.  
 
-  Recently, I’ve also been working on **GIS-integrated web applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
+Recently, I’ve also been working on **GIS-integrated web applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
 
-  On the backend, I continue to experiment with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack solutions to life.
-</p>
+On the backend, I continue to experiment with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack solutions to life.
+
+
 ---
 
 ### 🚀 What I'm Up To
