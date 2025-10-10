@@ -17,7 +17,8 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="250" style="margin-left: 20px; margin-bottom: 10px; display:inline-block; color:black;border: 3px solid #ffd800; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
+<p align="left">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
 I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
 With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
@@ -25,7 +26,7 @@ With a background in **Web Development** and **IT Consulting**, I've successfull
 I’m constantly exploring new tools and frameworks such as **React**, **TypeScript**, and other modern front-end technologies to build efficient and engaging user interfaces.  
 Recently, I’ve also been working on **GIS-integrated web applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
 On the backend, I continue to experiment with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack solutions to life.
-
+</p>
 ---
 
 ### 🚀 What I'm Up To
