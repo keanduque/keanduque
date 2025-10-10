@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Konnichiwa, Minna-san! 🙋🏻‍♂️ I'm Kean Duque</h1>
-<h3 align="center">Front-end Developer • UI/UX Enthusiast • Based in Kilkenny, Ireland 🇮🇪</h3>
-
+<h1 align="center">Konnichiwa, Ciao! 🙋🏻‍♂️ I'm Kean Duque</h1>
+<h3 align="center">Front-end Developer • GIS Developer • Software Engineer</h3><br />
+<h4 align="center">Based in Kilkenny, Ireland 🇮🇪</h4>
 
 
 <p align="left">
@@ -17,13 +17,15 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
 I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
 With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
 
-I’m constantly learning new tools and frameworks like **React**, **TypeScript**, and other modern front-end technologies.  
-I also enjoy experimenting with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack ideas to life.
+I’m constantly exploring new tools and frameworks such as **React**, **TypeScript**, and other modern front-end technologies to build efficient and engaging user interfaces.  
+Recently, I’ve also been working on **GIS-integrated web applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
+On the backend, I continue to experiment with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack solutions to life.
+
 
 ---
 
