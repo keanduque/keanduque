@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
+<img align="right" alt="Coding" width="250" style="margin-left: 20px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
 I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, currently living in **Kilkenny, Ireland**.  
 With a background in **Web Development** and **IT Consulting**, I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
