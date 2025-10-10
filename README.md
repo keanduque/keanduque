@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Konnichiwa, Ciao! 🙋🏻‍♂️ I'm Kean Duque</h1>
+<h1 align="center">こんにちは, Ciao! 🙋🏻‍♂️ I'm Kean Duque</h1>
 <h3 align="center">Front-end Developer • GIS Developer • Software Engineer</h3>
 <h4 align="center">Based in Kilkenny, Ireland 🇮🇪</h4>
 
@@ -19,16 +19,15 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/3166087/233664678-66c5cedb-f02c-47a7-8918-f610c69e3733.gif">
 
-I'm a passionate **Front-end Developer** with a strong eye for **UI/UX design**, 
-currently living in **Kilkenny, Ireland**.  
-With a background in **Web Development** and **IT Consulting**, 
-I've successfully built and deployed visually engaging websites — including ERP systems and e-commerce platforms.  
+I'm a passionate **Front-end Developer** developing responsive web applications and websites.
+With a background in **Software Engineering** and **IT Consulting**, 
+I've successfully built and deployed visually and responsive websites — including ERP systems and e-commerce platforms.  
 
-I’m constantly exploring new tools and frameworks such as **React**, **TypeScript**, and other modern front-end technologies to build efficient and engaging user interfaces.  
+I’m continuously learning and improving my skills by exploring new libraries, frameworks, and technologies to build efficient, scalable, and user-friendly solutions.
 
-Recently, I’ve also been working on **GIS-integrated web applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
+Recently, I’ve also been working on **GIS-integrated web-applications** within the **telecommunications industry**, utilizing **FME**, **ArcGIS**, and **Leaflet** to visualize and manage spatial data seamlessly.  
 
-On the backend, I continue to experiment with **Node.js**, **Express**, **MongoDB**, and **MySQL** to bring full-stack solutions to life.
+On the backend, I enjoy building full-stack solutions using **Node.js**, **Express**, and both **NoSQL** and relational databases such as **PostgreSQL**.
 
 
 ---
@@ -38,7 +37,7 @@ On the backend, I continue to experiment with **Node.js**, **Express**, **MongoD
 - 🔭 Working on: **Personal Web Applications & UI Experiments**
 - 🌱 Currently learning: **TypeScript** and **Modern Front-end Stacks**
 - 🧩 Exploring: **Full-stack development and design systems**
-- ⚡ Fun facts: I love **animation**, **programming**, and **running**
+- ⚡ Fun facts: I love **animation**, **traditional drawings**, **programming**, and **running**
 
 ---
 
@@ -56,6 +55,7 @@ On the backend, I continue to experiment with **Node.js**, **Express**, **MongoD
 - 2D Animation  
 - HTML, CSS, and JavaScript  
 - UI/UX Design  
+- Running
 
 ---
 
