@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">こんにちは, Ciao! 🙋🏻‍♂️ I'm Kean Duque</h1>
-<h3 align="center">Front-end Developer • GIS Developer • Software Engineer</h3>
+<h3 align="center">Front-end Developer • GIS Specialist • Software Engineer</h3>
 <h4 align="center">Based in Kilkenny, Ireland 🇮🇪</h4>
 
 
